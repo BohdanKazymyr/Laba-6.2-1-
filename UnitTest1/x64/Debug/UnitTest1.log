@@ -1,0 +1,5 @@
+﻿  UnitTest1.cpp
+C:\Універ\Visual labu\Laba 6.2\Laba 6.2.cpp(28,18): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Універ\Visual labu\Laba 6.2\UnitTest1\UnitTest1.cpp(17,10): error C2131: expression did not evaluate to a constant
+C:\Універ\Visual labu\Laba 6.2\UnitTest1\UnitTest1.cpp(17,10): message : failure was caused by a read of a variable outside its lifetime
+C:\Універ\Visual labu\Laba 6.2\UnitTest1\UnitTest1.cpp(17,10): message : see usage of 'n'
